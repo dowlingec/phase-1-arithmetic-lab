@@ -1,2 +1,7 @@
+// Write your code
+const multiply = 31 * 2
 
-// Write your code here
+const random = Math.floor ((Math.random() * 10) +1);
+
+// const mod =
+

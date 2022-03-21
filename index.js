@@ -1,5 +1,6 @@
 // Write your code
-const multiply = 31 * 2
+
+// let multiply = num1 * num2
 
 const random = Math.floor ((Math.random() * 10) +1);
 
